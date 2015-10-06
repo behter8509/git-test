@@ -6,3 +6,9 @@ p {
 	font-size: 26px;
 	text-align: center;
 }
+
+h1 {
+	text-align: center;
+	background: orange;
+	margin-bottom: 5em;
+}	
